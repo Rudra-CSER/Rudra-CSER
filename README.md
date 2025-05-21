@@ -12,6 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rudra-cser&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-cser&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+# 🗿 GitHub Activity:
+[![GitHub Streak](https://github-readme-streak-stats-beta-self-98.vercel.app?user=Rudra-CSER&theme=dark&hide_border=true&border_radius=6.4&card_height=194)](https://git.io/streak-stats)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rudra-cser&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
