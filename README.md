@@ -13,7 +13,7 @@
 
 # 🗿 GitHub Activity:
 
-[![GitHub Streak](https://github-readme-streak-stats-lv4wzlwmy.vercel.app?user=Rudra-CSER&theme=earth)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-beta-self-98.vercel.app?user=Rudra-CSER&theme=onedark)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rudra-cser&theme=radical&no-frame=false&no-bg=true&margin-w=4)
