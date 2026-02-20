@@ -30,8 +30,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,redis,linux,nginx,docker,git,githubactions,bash,postgres" />
   <br>
-  <img src="https://img.shields.io/badge/BullMQ-A81B38?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/PM2_Process-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
 </div>
 
 <h3 align="center">🤖 AI & Integrations</h3>
