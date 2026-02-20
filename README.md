@@ -8,11 +8,12 @@
 # 💻 Tech Stack:
 <h3 align="center">👨‍💻 Programming Languages</h3>
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=c,py,js,ts" alt="Languages" />
 </div>
 
 <h3 align="center">🎨 Frontend & UI</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind,html,css" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind,scss,html,css" alt="Frontend" />
   <br>
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </div>
@@ -27,8 +28,10 @@
 
 <h3 align="center">💾 Database & Infrastructure</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,linux,nginx,docker,git,githubactions,bash,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,docker,git,githubactions,bash" />
   <br>
+  <img src="https://img.shields.io/badge/BullMQ-A81B38?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2_Process-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
 </div>
 
 <h3 align="center">🤖 AI & Integrations</h3>
