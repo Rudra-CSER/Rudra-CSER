@@ -41,25 +41,23 @@
   <img src="https://img.shields.io/badge/Resend_Email-000000?style=for-the-badge&logo=resend&logoColor=white" />
 </div>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Rudra-cser&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Rudra-cser&show_icons=true&theme=default&cache_seconds=1800" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-cser&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-# 🗿 GitHub Activity:
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rudra-cser/Rudra-cser/output/github-snake-dark.svg" width="100%" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-cser&layout=compact&theme=default&cache_seconds=1800" />
 
 ---
 
-## 🏆 GitHub Trophies
+# 🗿 GitHub Activity
 
-![](https://github-profile-trophy.vercel.app/?username=Rudra-cser&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github.com/Rudra-cser/Rudra-cser/blob/output/github-snake-dark.svg" width="100%" />
+
+---
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rudra-cser&theme=radical" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
