@@ -51,7 +51,7 @@
 
 # 🗿 GitHub Activity
 
-[![GitHub Streak](https://github-readme-streak-stats-lv4wzlwmy.vercel.app?user=Rudra-CSER)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lv4wzlwmy.vercel.app?user=Rudra-CSER&theme=microsoft" alt="GitHub Streak" /></a>
 
 ---
 
