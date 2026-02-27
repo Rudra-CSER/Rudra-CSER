@@ -61,10 +61,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudra_CSER&show_icons=true&theme=tokyonight&hide_border=true" />
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-f4lvbvumd.vercel.app?user=Rudra_CSER" alt="GitHub Streak" /></a>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra_CSER&theme=tokyonight&hide_border=true" />
-</p>
+ 
 
 ---
 
