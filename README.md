@@ -42,15 +42,23 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rudra-cser&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-cser&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Rudra-cser&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-cser&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
 
 # 🗿 GitHub Activity:
+
 <div align="center">
-  <img src="https://github.com/Rudra-CSER/Rudra-CSER/blob/output/github-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Rudra-cser/Rudra-cser/output/github-snake-dark.svg" width="100%" />
 </div>
 
+---
+
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Rudra-cser&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
