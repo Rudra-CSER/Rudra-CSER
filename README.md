@@ -24,7 +24,7 @@
 - Deployment & DevOps basics (Docker, CI/CD)
 
 ---
-
+<div align="center">
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -46,25 +46,19 @@
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,docker,git,githubactions,bash" />
 </p>
+</div>
 
 ### 🔐 Tools & Integrations
 - JWT Authentication  
-- Zod Validation  
-- BullMQ  
-- PM2  
-- Razorpay Integration  
-- Resend Email  
-- Google Gemini API  
+- Razorpay, Stripe Integration  
+- DateBase Design 
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-f4lvbvumd.vercel.app?user=Rudra-CSER" alt="GitHub Streak" /></a>
-</p>
-  <br/>
- 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rudra-CSER)](https://git.io/streak-stats)
+
 
 ---
 
