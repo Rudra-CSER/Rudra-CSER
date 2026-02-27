@@ -41,23 +41,14 @@
   <img src="https://img.shields.io/badge/Resend_Email-000000?style=for-the-badge&logo=resend&logoColor=white" />
 </div>
 
-# 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rudra-cser&show_icons=true&theme=default&cache_seconds=1800" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-cser&layout=compact&theme=default&cache_seconds=1800" />
-
----
 
 # 🗿 GitHub Activity
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lv4wzlwmy.vercel.app?user=Rudra-CSER&theme=microsoft" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats-beta-self-98.vercel.app?user=Rudra_CSER)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-beta-self-98.vercel.app?user=Rudra_CSER" alt="GitHub Streak" /></a>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rudra-cser&theme=radical" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
