@@ -51,7 +51,7 @@
 
 # 🗿 GitHub Activity
 
-<img src="https://github.com/Rudra-cser/Rudra-cser/blob/output/github-snake-dark.svg" width="100%" />
+[![GitHub Streak](https://github-readme-streak-stats-lv4wzlwmy.vercel.app?user=Rudra-CSER)](https://git.io/streak-stats)
 
 ---
 
