@@ -1,62 +1,108 @@
 <img align="right" alt="Coding" width="1000px"  src= "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
+<h1 align="center">Hi 👋, I'm Rudra Narayan Mondal</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Next.js | Building Real Products</h3>
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rudraspams_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-narayan-mondal-155698260) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sastadon101) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-<h3 align="center">👨‍💻 Programming Languages</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,js,ts" alt="Languages" />
-</div>
+- 💻 Focused on **Full Stack Development (MERN + Next.js)**
+- 🔥 Currently building production-level projects
+- 📈 Improving DSA & backend architecture
+- 🎯 Goal: Become a strong job-ready full stack engineer
+- 📍 India
 
-<h3 align="center">🎨 Frontend & UI</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind,scss,html,css" alt="Frontend" />
-  <br>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</div>
+---
 
-<h3 align="center">⚙️ Backend & Security</h3>
-<div align="center">
+## 🧠 Currently Learning
+
+- Advanced **React & Next.js**
+- Backend architecture with **Node.js & Express**
+- MongoDB optimization
+- Authentication & Security (JWT, Cookies, Role-based access)
+- Deployment & DevOps basics (Docker, CI/CD)
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,c" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,scss" />
+</p>
+
+### ⚙️ Backend
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <br>
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod_Validation-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
-</div>
+</p>
 
-<h3 align="center">💾 Database & Infrastructure</h3>
-<div align="center">
+### 💾 Database & DevOps
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb,docker,git,githubactions,bash" />
-  <br>
-  <img src="https://img.shields.io/badge/BullMQ-A81B38?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/PM2_Process-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
-</div>
+</p>
 
-<h3 align="center">🤖 AI & Integrations</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Razorpay-092957?style=for-the-badge&logo=razorpay&logoColor=white" />
-  <img src="https://img.shields.io/badge/Resend_Email-000000?style=for-the-badge&logo=resend&logoColor=white" />
-</div>
-
-
-
-# 🗿 GitHub Activity
-[![GitHub Streak](https://github-readme-streak-stats-beta-self-98.vercel.app?user=Rudra_CSER)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-beta-self-98.vercel.app?user=Rudra_CSER" alt="GitHub Streak" /></a>
+### 🔐 Tools & Integrations
+- JWT Authentication  
+- Zod Validation  
+- BullMQ  
+- PM2  
+- Razorpay Integration  
+- Resend Email  
+- Google Gemini API  
 
 ---
 
+## 📊 GitHub Stats
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudra_CSER&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra_CSER&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
+## 🗿 What I Believe
 
+> “Don’t just learn tech. Build with it.”
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I focus on building:
+- Real authentication systems
+- REST APIs
+- Full-stack dashboards
+- Production-ready deployments
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.instagram.com/rudraspams_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/rudra-narayan-mondal-155698260">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@sastadon101">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🎯 2026 Focus
+
+- 🚀 Build 2 production-level MERN apps
+- 📦 Deploy full stack apps with CI/CD
+- 🧠 Master DSA for placements
+- 💼 Crack a strong developer role
+
+---
+
+⭐ If you like what I build, consider following!
