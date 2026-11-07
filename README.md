@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Rudra Narayan Mondal — Software Development Engineer at CRTDH Lab, IIT Kharagpur" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1628,55:0e7490,100:22d3ee&height=220&section=header&text=Rudra%20Narayan%20Mondal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20ML%20for%20Biology%20%C2%B7%20IIT%20Kharagpur&descAlignY=58&descSize=16" width="100%" alt="Rudra Narayan Mondal" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Software+Development+Engineer+%40+CRTDH+Lab%2C+IIT+Kharagpur;MS+(Research)+in+Nanoscience+%C2%B7+IIT+Kharagpur;Building+SETU+%E2%80%94+a+clinical+platform+live+at+IIT+KGP;ML+for+biomarkers+%26+point-of-care+diagnostics;Exploring+computational+drug+discovery;Don't+just+learn+tech.+Build+with+it." alt="Typing roles" />
 </p>
 
 <p align="center">
@@ -46,9 +50,29 @@ const rudra = {
 
 ## ⚗️ Tech Stack
 
-<p align="center">
-  <img src="assets/stack.svg" width="100%" alt="My tech stack drawn as a periodic table: languages, frontend, backend and data, ML and edge AI, DevOps" />
-</p>
+<table align="center">
+<tr>
+<td align="right"><b>🟨 Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c&theme=dark" height="44" alt="JavaScript, TypeScript, Python, C++, C" /></td>
+</tr>
+<tr>
+<td align="right"><b>🟦 Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,scss&theme=dark" height="44" alt="React, Next.js, Vite, Tailwind CSS, HTML, CSS, SCSS" /></td>
+</tr>
+<tr>
+<td align="right"><b>🟩 Backend & Data</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,postgres,redis,supabase&theme=dark" height="44" alt="Node.js, Express, Flask, MongoDB, PostgreSQL, Redis, Supabase" /></td>
+</tr>
+<tr>
+<td align="right"><b>🟥 ML & Edge AI</b></td>
+<td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,raspberrypi&theme=dark" height="44" alt="PyTorch, TensorFlow, scikit-learn, OpenCV, Raspberry Pi" /><br>
+<img src="https://img.shields.io/badge/Gemini-0b1324?style=flat-square&logo=googlegemini&logoColor=f9a8d4" alt="Gemini" /> <img src="https://img.shields.io/badge/Ollama-0b1324?style=flat-square&logo=ollama&logoColor=f9a8d4" alt="Ollama" /> <img src="https://img.shields.io/badge/OpenRouter-0b1324?style=flat-square" alt="OpenRouter" /> <img src="https://img.shields.io/badge/Jupyter-0b1324?style=flat-square&logo=jupyter&logoColor=f9a8d4" alt="Jupyter" /></td>
+</tr>
+<tr>
+<td align="right"><b>🟪 DevOps & Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,githubactions,linux,bash,git,gcp,vercel,postman&theme=dark" height="44" alt="Docker, Nginx, Cloudflare, GitHub Actions, Linux, Bash, Git, Google Cloud, Vercel, Postman" /></td>
+</tr>
+</table>
 
 <details>
 <summary><b>🔐 How I use it in production</b></summary>
@@ -121,14 +145,13 @@ const rudra = {
 ## 📈 Lab Readout
 
 <p align="center">
-  <img src="assets/stats.svg" width="100%" alt="Assay report: total contributions, streaks, original repos and language mix" />
+  <img src="https://streak-stats.demolab.com?user=Rudra-CSER&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="assets/plate.svg" width="100%" alt="My contributions over the last 52 weeks drawn as a microplate" />
+  <img src="https://komarev.com/ghpvc/?username=Rudra-CSER&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/stars/Rudra-CSER?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=fde68a&label=Stars&labelColor=0b1324&color=1d2b45" alt="Stars earned" />
 </p>
-
-<p align="center"><sub>Drawn from my own GitHub data by a GitHub Action in this repo · refreshed every 6 hours</sub></p>
 
 ## 🎬 Beyond the Lab
 
@@ -161,6 +184,8 @@ const rudra = {
 
 </details>
 
+<p align="center"><i>“Don’t just learn tech. Build with it.”</i><br><sub><code>5'-ATG CGT TGA GAT CGT GCT TAA-3' → M R U D R A</code></sub></p>
+
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Don't just learn tech. Build with it." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,45:0e7490,100:0c1628&height=120&section=footer" width="100%" alt="" />
 </p>
