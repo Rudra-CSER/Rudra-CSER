@@ -104,18 +104,63 @@ const rudra = {
 
 ---
 
+## 🧪 Currently Building
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🦷 SETU Dental Portal**<br>
+<sub>Annotation schemas, questionnaire frontend & Redis-backed services at IIT KGP</sub><br><br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top">
+
+**🔬 SC Lab Portal**<br>
+<sub>Full-stack lab management portal with deployment pipeline</sub><br><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top">
+
+**🍔 Campus Food PWA**<br>
+<sub>Non-profit food-ordering progressive web app for campus</sub><br><br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rudra-CSER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-CSER&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://streak-stats.demolab.com?user=Rudra-CSER&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 
-<img src="https://streak-stats.demolab.com?user=Rudra-CSER&theme=tokyonight&hide_border=true" />
+<br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rudra-CSER&theme=tokyo-night&hide_border=true&area=true" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
 
 </div>
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudra-CSER/Rudra-CSER/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudra-CSER/Rudra-CSER/output/snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Rudra-CSER/Rudra-CSER/output/snake-dark.svg" />
+  </picture>
+</p>
 
 ---
 
