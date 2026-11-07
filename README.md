@@ -1,44 +1,41 @@
-<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rudra%20Narayan%20Mondal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%E2%80%A2%20ML%20for%20Biology%20%E2%80%A2%20Building%20Real%20Products&descAlignY=58&descSize=16" width="100%"/>
+  <img src="assets/header.svg" width="100%" alt="Rudra Narayan Mondal — Software Development Engineer at CRTDH Lab, IIT Kharagpur" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Development+Engineer+%40+IIT+Kharagpur;MERN+%2B+Next.js+Full+Stack+Developer;ML+models+for+biological+data+%F0%9F%A7%AC;Point-of-care+diagnostics+%26+drug+discovery;Don't+just+learn+tech.+Build+with+it." alt="Typing SVG" />
-  </a>
+  <a href="https://linkedin.com/in/rudra-narayan-mondal-155698260"><img src="https://img.shields.io/badge/LinkedIn-0b1324?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@sastadon101"><img src="https://img.shields.io/badge/YouTube-0b1324?style=for-the-badge&logo=youtube&logoColor=f472b6" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/rudraspams_"><img src="https://img.shields.io/badge/Instagram-0b1324?style=for-the-badge&logo=instagram&logoColor=fbbf24" alt="Instagram" /></a>
+  <a href="mailto:rudranarayanmondal20@gmail.com"><img src="https://img.shields.io/badge/Email-0b1324?style=for-the-badge&logo=gmail&logoColor=34d399" alt="Email" /></a>
+  <a href="https://github.com/Rudra-CSER?tab=followers"><img src="https://img.shields.io/github/followers/Rudra-CSER?style=for-the-badge&logo=github&logoColor=a78bfa&label=Followers&labelColor=0b1324&color=1d2b45" alt="GitHub followers" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rudra-CSER&style=flat-square&color=38BDF8&label=Profile+Views" />
-  <a href="https://github.com/Rudra-CSER?tab=followers"><img src="https://img.shields.io/github/followers/Rudra-CSER?style=flat-square&color=0ea5e9&label=Followers&logo=github" /></a>
-  <a href="https://github.com/Rudra-CSER?tab=repositories"><img src="https://img.shields.io/badge/Open%20to-Collaborate-22c55e?style=flat-square" /></a>
-</p>
-
----
-
-## 👨‍💻 About Me
+## 👨‍🔬 About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-- 🧪 **Software Development Engineer** at **CRTDH Lab, IIT Kharagpur**
-- 🎓 **MS (by Research)** in Nanoscience, IIT Kharagpur · B.Tech CSE, Techno India University
-- 🧬 Building **ML models for biological data** & **biomarker quantification** for point-of-care devices
-- 💊 Exploring **computational drug discovery**
-- 🌐 Shipping **full-stack products** with MERN + Next.js
-- 📍 India
+- 🧪 **Software Development Engineer** at **CRTDH Lab, IIT Kharagpur** — I own the dental module of **SETU**, a clinical platform running live on campus
+- 🎓 **MS (by Research) in Nanoscience**, IIT Kharagpur · B.Tech CSE, Techno India University ('26)
+- 🧬 ML models for biological data and **biomarker-quantification algorithms** for point-of-care devices; now exploring **computational drug discovery**
+- 🔬 Earlier: ML research intern at CRTDH — an oral-cancer detection classifier running **on-device on a Raspberry Pi**
+- ☁️ Google Cloud certified — building AI apps with **Gemini & Imagen**
+- 🎬 Filmmaker, DJ and videographer when I'm not shipping code
+- 📍 IIT Kharagpur · from Berhampore, West Bengal
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
 ```js
 const rudra = {
-  role: "SDE @ CRTDH, IIT KGP",
-  stack: ["MERN", "Next.js", "Python"],
-  ml: ["PyTorch", "scikit-learn", "OpenCV"],
-  focus: "Healthcare tech",
+  role: "SDE @ CRTDH Lab, IIT KGP",
+  research: "MS (Research), Nanoscience",
+  shipping: ["SETU", "SETU Services",
+             "SC Lab Portal"],
+  science: ["biomarkers", "point-of-care",
+            "drug discovery"],
+  offline: ["film", "DJing", "video"],
   motto: "Build > Learn",
 };
 ```
@@ -47,151 +44,123 @@ const rudra = {
 </tr>
 </table>
 
----
+## ⚗️ Tech Stack
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,c&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,scss&theme=dark" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark" />
-
-**ML & Data**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
-
-**DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,bash,gcp,vercel,postman&theme=dark" />
-
-</div>
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="My tech stack drawn as a periodic table: languages, frontend, backend and data, ML and edge AI, DevOps" />
+</p>
 
 <details>
-<summary><b>🔐 Integrations & Concepts</b></summary>
+<summary><b>🔐 How I use it in production</b></summary>
 <br>
 
 | Area | What I work with |
 |---|---|
-| Auth & Security | JWT, HTTP-only cookies, role-based access control |
+| Auth & security | JWT with Redis-backed sessions, role-based access control (RBAC) |
+| Data | MongoDB, PostgreSQL, Redis Pub/Sub, JSON Schema (draft-07) |
 | Payments | Razorpay, Stripe |
-| Data | Database design, MongoDB optimization, Redis caching |
-| AI | Gemini & Imagen (Google Cloud certified) |
-| Deployment | Docker, CI/CD with GitHub Actions |
+| AI | Gemini & Imagen, OpenRouter, local LLMs on Ollama |
+| Edge | On-device inference on Raspberry Pi, Flask services |
+| Infra | Docker Compose, Nginx, Cloudflare Tunnel, Tailscale, GitHub Actions |
 
 </details>
 
----
-
-## 🚀 What I Build
-
-<table>
-<tr>
-<td align="center" width="25%">🔑<br><b>Auth Systems</b><br><sub>Secure, role-based</sub></td>
-<td align="center" width="25%">⚡<br><b>REST APIs</b><br><sub>Clean & scalable</sub></td>
-<td align="center" width="25%">📊<br><b>Dashboards</b><br><sub>Full-stack portals</sub></td>
-<td align="center" width="25%">🧬<br><b>Health ML</b><br><sub>Point-of-care analytics</sub></td>
-</tr>
-</table>
-
----
-
-## 🧪 Currently Building
+## 🧪 On the Bench
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**🦷 SETU Dental Portal**<br>
-<sub>Annotation schemas, questionnaire frontend & Redis-backed services at IIT KGP</sub><br><br>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+**🦷 [SETU · Dental Module](https://setu.iitkgp.ac.in)**<br>
+<sub>Live in production at IIT Kharagpur. I rebuilt the dental module as an independent microservice — JWT with Redis-backed sessions and RBAC across three clinical roles. <b>600+ patients screened.</b></sub><br><br>
+<img src="https://img.shields.io/badge/Node.js-0b1324?style=flat-square&logo=nodedotjs&logoColor=6ee7b7" alt="Node.js" /> <img src="https://img.shields.io/badge/MongoDB-0b1324?style=flat-square&logo=mongodb&logoColor=6ee7b7" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-0b1324?style=flat-square&logo=redis&logoColor=f87171" alt="Redis" />
+
+</td>
+<td width="33%" valign="top">
+
+**🍱 SETU Services**<br>
+<sub>Non-profit campus food marketplace PWA — a customer app plus a restaurant dashboard with live order status. No payments, no commission. Shipped November 2026.</sub><br><br>
+<img src="https://img.shields.io/badge/Express-0b1324?style=flat-square&logo=express&logoColor=a7f3d0" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-0b1324?style=flat-square&logo=mongodb&logoColor=6ee7b7" alt="MongoDB" /> <img src="https://img.shields.io/badge/PWA-0b1324?style=flat-square&logo=pwa&logoColor=c4b5fd" alt="PWA" />
 
 </td>
 <td width="33%" valign="top">
 
 **🔬 SC Lab Portal**<br>
-<sub>Full-stack lab management portal with deployment pipeline</sub><br><br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<sub>Full-stack lab portal — React and TypeScript on Express and PostgreSQL, self-hosted with Docker Compose, Nginx and Cloudflare Tunnel.</sub><br><br>
+<img src="https://img.shields.io/badge/React-0b1324?style=flat-square&logo=react&logoColor=67e8f9" alt="React" /> <img src="https://img.shields.io/badge/PostgreSQL-0b1324?style=flat-square&logo=postgresql&logoColor=93c5fd" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Docker-0b1324?style=flat-square&logo=docker&logoColor=93c5fd" alt="Docker" />
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**🩸 Point-of-care Hb estimation**<br>
+<sub>Hemoglobin estimation from colorimetric camera images of capillary blood, with an ML analysis pipeline. Manuscript in preparation.</sub><br><br>
+<img src="https://img.shields.io/badge/Python-0b1324?style=flat-square&logo=python&logoColor=fde68a" alt="Python" /> <img src="https://img.shields.io/badge/Colorimetry-0b1324?style=flat-square" alt="Colorimetry" /> <img src="https://img.shields.io/badge/ML_pipeline-0b1324?style=flat-square" alt="ML pipeline" />
 
 </td>
 <td width="33%" valign="top">
 
-**🍔 Campus Food PWA**<br>
-<sub>Non-profit food-ordering progressive web app for campus</sub><br><br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"/>
+**🎨 [ChromaRef v2](https://github.com/Rudra-CSER/Chormaref)**<br>
+<sub>Browser-based colour-calibration engine that fits a colour-correction matrix by least squares.</sub><br><br>
+<img src="https://img.shields.io/badge/JavaScript-0b1324?style=flat-square&logo=javascript&logoColor=fde68a" alt="JavaScript" />
+
+</td>
+<td width="33%" valign="top">
+
+**📄 [LazyCV](https://github.com/Rudra-CSER/LazyCv)**<br>
+<sub>GenAI résumé parser with Zod schema validation.</sub><br><br>
+<img src="https://img.shields.io/badge/JavaScript-0b1324?style=flat-square&logo=javascript&logoColor=fde68a" alt="JavaScript" /> <img src="https://img.shields.io/badge/Zod-0b1324?style=flat-square&logo=zod&logoColor=93c5fd" alt="Zod" />
 
 </td>
 </tr>
 </table>
 
----
+<sub>Also tinkering with: <b>OroScan</b>, a Raspberry Pi + Flask dental-imaging viewer · <b>NEXUS</b>, a multi-agent AI aggregator on OpenRouter · a self-hosted WhatsApp assistant on Hermes Agent and Ollama · my <a href="https://github.com/Rudra-CSER/Retro-Portfolio">90s retro-gaming portfolio</a></sub>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rudra-CSER&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-
-<br><br>
-
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
-
-<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
-
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
-<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
-
-</div>
-
-<br>
+## 📈 Lab Readout
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudra-CSER/Rudra-CSER/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudra-CSER/Rudra-CSER/output/snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Rudra-CSER/Rudra-CSER/output/snake-dark.svg" />
-  </picture>
+  <img src="assets/stats.svg" width="100%" alt="Assay report: total contributions, streaks, original repos and language mix" />
 </p>
 
----
+<p align="center">
+  <img src="assets/plate.svg" width="100%" alt="My contributions over the last 52 weeks drawn as a microplate" />
+</p>
+
+<p align="center"><sub>Drawn from my own GitHub data by a GitHub Action in this repo · refreshed every 6 hours</sub></p>
+
+## 🎬 Beyond the Lab
+
+> 🏆 ***Fifth Head*** — my short film won **Best Cinematography / Best Visuals at Kaleidoscope 2026** and is an **Official Selection at the 17th International Inter-University Short Film Festival (IIUSFF)**, picked from 1,269 films across 92 countries.
+
+🎧 DJing · 🎥 videography · 📺 content on [YouTube](https://youtube.com/@sastadon101)
 
 ## 🎯 2026 Focus
 
 <details open>
-<summary><b>Click to expand</b></summary>
+<summary><b>Roadmap</b></summary>
 <br>
 
-- [x] Join a research lab as a Software Development Engineer
-- [ ] Ship 2 production-level full-stack apps
-- [ ] Deploy with full CI/CD pipelines
-- [ ] Publish ML work on point-of-care diagnostics
-- [ ] Master DSA
+- [x] Join CRTDH Lab, IIT Kharagpur as a Software Development Engineer
+- [x] Rebuild SETU's dental module as a production microservice
+- [x] Ship SETU Services
+- [ ] Submit the point-of-care hemoglobin paper to a Q1 journal
+- [ ] Launch my retro-gaming portfolio at rudramundal.dev
+- [ ] Finish NeetCode 150 and Striver's A2Z in C++
 
 </details>
 
----
+<details>
+<summary><b>📚 Currently levelling up</b></summary>
+<br>
 
-## 🌐 Connect With Me
+- **DSA** — Striver's A2Z and [NeetCode 150 in C++](https://github.com/Rudra-CSER/neetcode-submissions)
+- **DevSecOps** — CI/CD, Docker, Terraform, Prometheus
+- **Cloud** — AWS fundamentals
+
+</details>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rudra-narayan-mondal-155698260"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/rudraspams_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://youtube.com/@sastadon101"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://github.com/Rudra-CSER"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center"><i>“Don’t just learn tech. Build with it.”</i> ⭐ If you like what I build, consider following!</p>
-
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+  <img src="assets/footer.svg" width="100%" alt="Don't just learn tech. Build with it." />
 </p>
